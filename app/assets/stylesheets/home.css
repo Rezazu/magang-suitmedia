@@ -1,0 +1,9 @@
+.navbar-container{
+    background-color: grey;
+    height: 70px;
+}
+
+.navbar-wrapper{
+    float: left;
+    color: black;
+}
